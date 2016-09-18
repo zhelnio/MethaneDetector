@@ -142,7 +142,7 @@ FSM states:
 	WAIT	- sensor heater disabled
 
 	INIT -> HEAT -> DETECT -.
-			 ^		  |		|
+			 ^        |     |
 			 |        |     |  
 			WAIT <----'     |
 			 ^              |
