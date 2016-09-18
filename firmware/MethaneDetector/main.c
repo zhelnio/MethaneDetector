@@ -141,15 +141,15 @@ FSM states:
 	ALARM	- gas detected, enable alarm sound
 	WAIT	- sensor heater disabled
 
-	INIT -> HEAT -> DETECT -.
-			 ^        |     |
-			 |        |     |  
-			WAIT <----'     |
-			 ^              |
-			 |              |
-			ALARM <---------' 
-			 ^  |
-			 ''''
+    INIT -> HEAT -> DETECT -.
+             ^        |     |
+             |        |     |
+            WAIT <----'     |
+             ^              |
+             |              |
+            ALARM <---------'
+             ^  |
+             ''''
 */
 
 typedef enum {Init, Heat, Detect, Alarm, Wait } FsmState;
