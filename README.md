@@ -5,11 +5,13 @@ According to the sensor datasheet the standard detection conditions includes Vcc
 The typical working cycle includes: 1 minute of preheat, concentration measurements and 5 minutes of waiting. These parameters can be easily changed in the firmware source code.
 For the device simplification the measurement circuit is directly connected to the ATtiny port, so the voltage on it is about 4.4V, not 5V. This conditions (maybe) reduce the MQ-4 sensitivity but it still can be used as gas detector.
 
-Schematic diagram
+**Schematic diagram**
 ![Alt text](/readme/schema.png?raw=true "schema")
 
-Board layout
+**Board layout**
+
 ![Alt text](/readme/board.png?raw=true "board")
 
-Device photo
+**Device photo**
+
 ![Alt text](/readme/photo.JPG?raw=true "photo")
