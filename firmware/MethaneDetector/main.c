@@ -128,8 +128,8 @@ void playDiscreteSound()
 #pragma region FSM
 
 //periods of sensor preheat before detection and waiting after
-#define HEAT_PERIOD 30
-#define WAIT_PERIOD 90
+#define HEAT_PERIOD 60
+#define WAIT_PERIOD 300
 
 #define TIMER_TICKS_IN_SECOND 2
 
