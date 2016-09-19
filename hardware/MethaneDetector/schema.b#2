@@ -164,6 +164,7 @@
 <dimension x1="0" y1="0" x2="60.96" y2="0" x3="30.48" y3="-11.43" textsize="1.778" layer="20" precision="1" visible="yes"/>
 <dimension x1="49.53" y1="0" x2="60.96" y2="0" x3="55.245" y3="-3.81" textsize="1.778" layer="20" precision="1" visible="yes"/>
 <dimension x1="60.96" y1="11.43" x2="60.96" y2="0" x3="64.77" y3="5.715" textsize="1.778" layer="20" precision="1" visible="yes"/>
+<text x="15.24" y="1.27" size="1.25" layer="25">https://github.com/zhelnio/MethaneDetector</text>
 </plain>
 <libraries>
 <library name="resistor">

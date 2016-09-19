@@ -14564,6 +14564,10 @@ Source: DCJ0303.pdf</description>
 <sheets>
 <sheet>
 <plain>
+<text x="86.614" y="15.748" size="2.54" layer="94">Very simple natural gaz detector 
+based on MQ-4 sensor</text>
+<text x="86.36" y="7.62" size="1.9304" layer="94">More info: 
+https://github.com/zhelnio/MethaneDetector</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="83.82" y="88.9"/>
@@ -14824,4 +14828,10 @@ Source: DCJ0303.pdf</description>
 </sheets>
 </schematic>
 </drawing>
+<compatibility>
+<note version="6.3" minversion="6.2.2" severity="warning">
+Since Version 6.2.2 text objects can contain more than one line,
+which will not be processed correctly with this version.
+</note>
+</compatibility>
 </eagle>

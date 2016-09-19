@@ -1781,7 +1781,7 @@ design rules under a new name.</description>
 <attribute name="VALUE" x="49.53" y="12.7" size="1.27" layer="27" ratio="10"/>
 </element>
 <element name="R2" library="resistor" package="0204/7" value="10K" x="24.765" y="34.925" smashed="yes" rot="R90">
-<attribute name="NAME" x="25.3746" y="32.385" size="0.9906" layer="25" ratio="10" rot="R90"/>
+<attribute name="NAME" x="25.0571" y="32.7025" size="0.9906" layer="25" ratio="10" rot="R90"/>
 <attribute name="VALUE" x="25.2476" y="35.2044" size="0.9906" layer="27" ratio="10" rot="R90"/>
 </element>
 <element name="R4" library="resistor" package="0207/10" value="4K" x="55.88" y="31.75" smashed="yes" rot="R90">

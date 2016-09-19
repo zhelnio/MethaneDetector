@@ -14564,7 +14564,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="J2" library="con-jack" deviceset="DCJ0303" device=""/>
-<part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
+<part name="FRAME1" library="frames" deviceset="A4L-LOC" device="" value="sdf"/>
 </parts>
 <sheets>
 <sheet>
@@ -14600,7 +14600,11 @@ DIN A4, landscape with location and doc. field</description>
 <instance part="GND6" gate="1" x="187.96" y="66.04"/>
 <instance part="GND7" gate="1" x="76.2" y="25.4"/>
 <instance part="J2" gate="G$1" x="38.1" y="132.08"/>
-<instance part="FRAME1" gate="G$1" x="0" y="0"/>
+<instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes">
+<attribute name="DRAWING_NAME" x="217.17" y="15.24" size="2.54" layer="94"/>
+<attribute name="LAST_DATE_TIME" x="217.17" y="10.16" size="2.286" layer="94"/>
+<attribute name="SHEET" x="230.505" y="5.08" size="2.54" layer="94"/>
+</instance>
 </instances>
 <busses>
 </busses>

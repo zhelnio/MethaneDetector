@@ -14564,7 +14564,7 @@ Source: DCJ0303.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="86.614" y="15.748" size="2.54" layer="94">Very simple natural gaz detector 
+<text x="86.614" y="15.748" size="3.048" layer="94">Simple natural gaz detector 
 based on MQ-4 sensor</text>
 <text x="86.36" y="7.62" size="1.9304" layer="94">More info: 
 https://github.com/zhelnio/MethaneDetector</text>

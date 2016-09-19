@@ -14530,7 +14530,7 @@ Source: DCJ0303.pdf</description>
 </class>
 </classes>
 <parts>
-<part name="IC1" library="atmel" deviceset="AT90S2313" device="P"/>
+<part name="IC1" library="atmel" deviceset="AT90S2313" device="P" value="ATtiny2313V-10PU"/>
 <part name="SEN1" library="SparkFun-Sensors" deviceset="METHANE_SENSOR" device=""/>
 <part name="SG1" library="buzzer" deviceset="BMT1205XH7.5" device="" value=""/>
 <part name="Q2" library="transistor-npn" deviceset="2N3904" device="" value="2N4401"/>

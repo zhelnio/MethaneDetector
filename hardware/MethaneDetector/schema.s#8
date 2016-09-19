@@ -14564,7 +14564,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="J2" library="con-jack" deviceset="DCJ0303" device=""/>
-<part name="FRAME1" library="frames" deviceset="A4L-LOC" device="" value="sdfdf"/>
+<part name="FRAME1" library="frames" deviceset="A4L-LOC" device=""/>
 </parts>
 <sheets>
 <sheet>
