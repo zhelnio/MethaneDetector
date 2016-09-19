@@ -14,4 +14,4 @@ For the device simplification the measurement circuit is directly connected to t
 
 **Device photo**
 
-![Alt text](/readme/photo.jpg?raw=true "photo")
+![Alt text](/readme/photo.JPG?raw=true "photo")
